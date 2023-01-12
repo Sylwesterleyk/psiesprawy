@@ -1,0 +1,8 @@
+M - months
+Y - years
+
+2-4 M
+4-8 M
+8-12 M
+1-3 Y
+3+ Y
